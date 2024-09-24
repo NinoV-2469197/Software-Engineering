@@ -1,17 +1,40 @@
-- Requirements errors kosten het meest
-- Off-shore developers aangenomen, werkt niet, betaal software bedrijven + invest
-- CHAOS rapport: 3 key strategies (in pptx)
-- Veel geld in de industrie
-- Van opsommingen, er 3 van kunnen opgeven (zoals: IEEE-CS/ACM report)
-- 4 behavior rules
-- Examen: 4-5 favoriete principes (Davis's Early 15 principles) en link ze met andere software processen!
-- Requirements diagram vs UML for specific target audience
-- Eerst correct maken en dan naar performantie kijken
-- Royse Principles: 1. Blueprint first 2. Process dat risico's eerst behandelt
-- Wasserman's fundamental concepts: abstractie en herbruikbaar maken voor meerdere functies zoals verschillende banken waarvan code herbruikt kan worden.
-- Modularity and architecture: deeltjes op de correcte manier tot een architectuur maken
-- Eclipse opensource in fidem (Brussel) wat door IBM ontwikkeld was
-- 2 kwaliteitsattributen: externe voor de klant, interne voor het SE team
-- ook van product <--> process attributen
-- Opsomming van attributen in de slides
-- Productieprocess weeral opsommingen
+# Software Engineering Insights
+
+## Kosten van Requirements Errors
+- Requirements errors zijn vaak de duurste fouten.
+- Off-shore developers inhuren blijkt niet effectief te werken; het resultaat is een patroon van betalen aan softwarebedrijven en extra investeringen.
+- Volgens het CHAOS rapport zijn er 3 belangrijke strategieën (in pptx).
+
+## Industrie-inzichten
+- De software-industrie investeert enorm veel geld.
+- Er zijn drie opsommingen beschikbaar, vergelijkbaar met rapporten zoals het IEEE-CS/ACM report.
+- Vier gedragsregels zijn van toepassing.
+
+## Examenvoorbereiding
+- Selecteer 4-5 favoriete principes uit Davis' Early 15 Principles en verbind deze met andere softwareprocessen.
+
+## Requirements en Diagrammen
+- Vergelijking tussen requirements diagrammen en UML voor specifieke doelgroepen.
+- Allereerst zorgen voor correctheid, daarna voor de prestaties.
+
+## Belangrijke Principes en Concepten
+### Royse Principles
+1. Begin met een blueprint.
+2. Behandel eerst de processen die risico's bevatten.
+
+### Wasserman's Fundamentals
+- Abstractie en hergebruik mogelijk maken voor meerdere functies, bijvoorbeeld code hergebruiken voor verschillende banken.
+
+### Modularity en Architectuur
+- Het correct samenstellen van modules tot een functionele architectuur.
+
+## Open Source en Kwaliteit
+- Eclipse, door IBM ontwikkeld, nu open source beschikbaar in Brussel (in fidem).
+  
+### Kwaliteitsattributen
+- Externe attributen richten zich op de klant, interne attributen op het SE-team.
+- Verschil tussen product- en processattributen.
+
+## Attributen in Presentaties
+- Opsommingen van attributen zijn beschikbaar in de slides.
+- Productieprocessen worden opnieuw opgesomd.
