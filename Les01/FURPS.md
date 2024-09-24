@@ -1,0 +1,5 @@
+- Functionality - Features, mogelijkheden, beveiliging
+- Usability - Menselijke factoren, esthetisch eigenschappen, consistentie, documentatie
+- Reliability - Faalfrequentie, betrouwbaarheid, faalimpact, herstelbaarheid, voorspelbaarheid, nauwkeurigheid, mean time to failure
+- Performance - Snelheid, efficiëntie, resourceverbruik, throughput, responsetijd
+- Supportability - Testbaarheid, uitbreidbaarheid, aanpasbaarheid, onderhoudbaarheid, compatibiliteit, configureerbaarheid, serviceability, installeerbaarheid, localizability, overdraagbaarheid

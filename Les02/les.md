@@ -1,0 +1,17 @@
+- Requirements errors kosten het meest
+- Off-shore developers aangenomen, werkt niet, betaal software bedrijven + invest
+- CHAOS rapport: 3 key strategies (in pptx)
+- Veel geld in de industrie
+- Van opsommingen, er 3 van kunnen opgeven (zoals: IEEE-CS/ACM report)
+- 4 behavior rules
+- Examen: 4-5 favoriete principes (Davis's Early 15 principles) en link ze met andere software processen!
+- Requirements diagram vs UML for specific target audience
+- Eerst correct maken en dan naar performantie kijken
+- Royse Principles: 1. Blueprint first 2. Process dat risico's eerst behandelt
+- Wasserman's fundamental concepts: abstractie en herbruikbaar maken voor meerdere functies zoals verschillende banken waarvan code herbruikt kan worden.
+- Modularity and architecture: deeltjes op de correcte manier tot een architectuur maken
+- Eclipse opensource in fidem (Brussel) wat door IBM ontwikkeld was
+- 2 kwaliteitsattributen: externe voor de klant, interne voor het SE team
+- ook van product <--> process attributen
+- Opsomming van attributen in de slides
+- Productieprocess weeral opsommingen
