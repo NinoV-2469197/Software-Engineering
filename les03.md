@@ -1,0 +1,3 @@
+- Waterval naar mini watervallen die individueel incremental toegevoegd worden naar mini watervallen met elk een release dat aan de klant getoond wordt
+- 4.5 niet kennen maar misschien lezen
+- Process definitie 4.6 niet leren
