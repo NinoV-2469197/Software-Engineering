@@ -1,0 +1,75 @@
+1. Unit Testing:
+Purpose: Tests individual units or components of code (like functions, methods, or classes) in isolation.
+Focus: Smallest pieces of functionality, ensuring each part works as expected independently.
+Tools: JUnit (Java), NUnit (.NET), PyTest (Python), Jest (JavaScript).
+Example: Testing if a function that adds two numbers returns the correct sum.
+2. Integration Testing:
+Purpose: Ensures that different components or systems work together as expected.
+Focus: The interaction between units or modules (e.g., how services, APIs, or databases interact).
+Tools: JUnit with Spring (Java), Postman (for API testing), PyTest with fixtures.
+Example: Testing if an API endpoint correctly retrieves data from a database.
+3. Functional Testing:
+Purpose: Verifies that the software works as per functional requirements.
+Focus: Ensures the system behaves as expected, based on the provided input/output.
+Tools: Selenium, Cucumber, Postman.
+Example: Checking if a user can successfully log in with valid credentials.
+4. End-to-End (E2E) Testing:
+Purpose: Tests the entire application flow, from the start to the end, simulating real user behavior.
+Focus: The full system, ensuring different modules work together and the entire user experience is functional.
+Tools: Cypress, Selenium, TestCafe.
+Example: Testing an online shopping process from adding items to the cart to checkout and payment.
+5. Acceptance Testing:
+Purpose: Ensures that the system meets business requirements and is ready for use.
+Focus: Whether the system fulfills the customer's needs, often done by or in collaboration with the customer.
+Tools: FitNesse, Cucumber.
+Example: A client verifying that a new feature works according to their specifications before accepting the release.
+6. Regression Testing:
+Purpose: Ensures that new changes or updates haven't broken existing functionality.
+Focus: Re-running previous tests to confirm everything still works after modifications.
+Tools: Selenium, TestNG, JUnit.
+Example: Running all user login-related tests after modifying the authentication system to confirm nothing was broken.
+7. Performance Testing:
+Purpose: Measures the speed, responsiveness, and stability of the system under various conditions.
+Focus: Performance metrics like load times, scalability, and stress handling.
+Tools: JMeter, LoadRunner, Gatling.
+Example: Testing how many concurrent users a website can handle before slowing down.
+8. Load Testing:
+Purpose: Assesses the system's behavior under a specific expected load.
+Focus: Ensuring the system can handle expected traffic or data volume.
+Tools: JMeter, Locust, BlazeMeter.
+Example: Testing if a server can handle 10,000 users simultaneously accessing a web application.
+9. Stress Testing:
+Purpose: Tests the system beyond its normal operational capacity to see how it handles extreme conditions.
+Focus: Finding the breaking point of the system, how it degrades under stress.
+Tools: JMeter, LoadRunner, Gatling.
+Example: Overloading a system with requests until it crashes to identify the upper limit of performance.
+10. Usability Testing:
+Purpose: Evaluates how easy and user-friendly the application is.
+Focus: User experience, ensuring the interface and workflow make sense to real users.
+Tools: Crazy Egg, Usabilla, Optimal Workshop.
+Example: Having users perform tasks (like signing up for an account) and tracking their ease of use and satisfaction.
+11. Security Testing:
+Purpose: Identifies vulnerabilities in the system that could be exploited by attackers.
+Focus: Ensuring data confidentiality, integrity, and availability.
+Tools: OWASP ZAP, Burp Suite, Nessus.
+Example: Penetration testing to check if unauthorized access to sensitive data is possible.
+12. Smoke Testing:
+Purpose: Quick testing of the system to check if the critical functionality works after a build or deployment.
+Focus: Verifying basic functions of the system to determine if it's stable enough for further testing.
+Tools: Automated test scripts (Selenium, JUnit).
+Example: Running a few key tests (like logging in) to ensure the application is functional after a deployment.
+13. Sanity Testing:
+Purpose: Verifies that specific functionality or bugs have been fixed without doing exhaustive testing.
+Focus: Narrow checks after changes to confirm the targeted area works as expected.
+Tools: Same tools as for smoke testing.
+Example: After fixing a bug in the shopping cart, testing just that feature to confirm it’s working correctly.
+14. User Acceptance Testing (UAT):
+Purpose: Done by the end users or clients to verify that the product works according to their requirements.
+Focus: Real-world scenarios from the perspective of the end user.
+Tools: Could be manual or automated, depending on the client.
+Example: Having the client test a new feature in their environment before going live.
+15. Exploratory Testing:
+Purpose: Involves testers manually exploring the application without predefined test cases to identify unexpected issues.
+Focus: Ad hoc, creative testing to find unusual bugs or edge cases.
+Tools: Manual or tools to assist exploratory testing like TestRail or PractiTest.
+Example: A tester navigates through the system without a specific test script to see if they can find any unpredictable behavior.
