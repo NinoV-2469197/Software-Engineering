@@ -1,0 +1,19 @@
+Pitch broodjes
+- Supportablility
+  - Onderhoud: opties voorzien om broodjes toe te voegen en te verwijderen.
+  Compatibiliteit: de applicatie moet werken op zowel Android als iOS.
+  Testen: de app moet een test coverage hebben van minstens 50%.
+
+- Technology
+  - Onze app wordt ontwikkeld met Flutter, waardoor we efficiënt zowel iOS als Android kunnen bouwen. Dankzij Flutter's veelzijdige UI-framework en zijn flexibiliteit kunnen we een responsieve, gebruiksvriendelijke broodjesapp aanbieden. Als back-end maken we gebruik van Java in combinatie met PostgreSQL om de bestelgeschiedenis, ingrediëntinformatie en prijsupdates snel en betrouwbaar te beheren. De Java-backend zorgt ervoor dat onze business logica gescheiden blijft van de gebruiker. De combinatie van Flutter, Java en PostgreSQL zorgt voor een soepel gegevensbeheer en schaalbare prestaties, waardoor gebruikers profiteren van real-time prijsupdates. Eventueel zouden we een hybride systeem met PostgreSQL als core functionaliteit en NoSQL voor gevarieerde data in de applicatie weer te geven. Om een failsafe applicatie te bouwen zouden we gebruik kunnen maken van microservices. Wat uiteindelijk ook zorgt voor een grotere schaalbaarheid.
+
+- Inspanning
+  - Ongeveer 32-47 mandagen, afhankelijk van de complexiteit van de functionaliteiten en de mate van detail in de implementatie.
+
+Pitch Bulking
+- Technology
+  - Om op een efficiënte manier zowel iOS als Android te kunnen ontwikkelen, maken we gebruik van Flutter. Door het veelzijdige UI-framework van Flutter kunnen we een gebruiksvriendelijke en visueel aantrekkelijke applicatie creëren. De app wordt ontworpen om gebruikers te helpen met het bereiken van hun gezondheidsdoelen, zoals spieropbouw (bulken) of vetverlies (cutten). 
+
+  Deze combinatie van Flutter, Java en PostgreSQL biedt een schaalbare en krachtige basis voor data-analyse, waardoor gebruikers inzicht krijgen in hun voedingsinname en voortgang. De app is een complete oplossing die gezonde keuzes bevordert, zowel in de keuken als in de supermarkt, en ondersteunt gebruikers bij het bereiken van hun bulk- of cutdoelen. Eventueel zouden we een hybride systeem met PostgreSQL als core functionaliteit en NoSQL voor sterk variërende data in de applicatie weer te geven. Om een failsafe applicatie te bouwen zouden we gebruik kunnen maken van microservices. Wat uiteindelijk ook zorgt voor een grotere schaalbaarheid.
+
+  Een Java-backend zorgt ervoor dat onze business logica gescheiden blijft van de gebruiker. Ook maken we gebruik van PostgreSQL om gebruikersgegevens, voedingsinformatie en maaltijdplannen op te slaan. In combinatie met een krachtige voedings-API kan de app gepersonaliseerde maaltijdplannen opstellen die aansluiten bij de macrodoelen van de gebruiker. Zo kunnen ze eenvoudig hun eiwitten, vetten en koolhydraten volgen, terwijl de boodschappenlijstfunctie helpt voedselverspilling te verminderen.

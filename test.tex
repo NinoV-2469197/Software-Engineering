@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage{enumitem}
+\begin{document}
+
+\title{Pitch Script}
+\author{}
+\date{}
+\maketitle
+
+\section*{Pitch 1: Broodjes App}
+
+\begin{itemize}
+    \item \textbf{Supportability}
+    \begin{itemize}
+        \item \textbf{Maintenance}: Ability to add and remove sandwiches easily.
+        \item \textbf{Compatibility}: Works on both Android and iOS platforms.
+        \item \textbf{Testing}: Minimum 50\% test coverage required.
+    \end{itemize}
+
+    \item \textbf{Technology}
+    \begin{itemize}
+        \item \textbf{Flutter}: Cross-platform development for iOS and Android.
+        \item \textbf{Backend}: Java with PostgreSQL to manage order history, ingredients, and price updates.
+        \begin{itemize}
+            \item Separation of business logic from the user interface.
+            \item Possible hybrid system: PostgreSQL for core functionality, NoSQL for varied data.
+        \end{itemize}
+        \item \textbf{Microservices}: Ensures scalability and reliability.
+        \item \textbf{Serverless Architecture}: For efficient performance and caching.
+    \end{itemize}
+
+    \item \textbf{Effort/Timeline}
+    \begin{itemize}
+        \item Estimated at 32–47 mandays, depending on complexity and level of detail.
+    \end{itemize}
+\end{itemize}
+
+\section*{Pitch 2: Bulking App}
+
+\begin{itemize}
+    \item \textbf{Technology}
+    \begin{itemize}
+        \item \textbf{Flutter}: Cross-platform development for both iOS and Android.
+        \item App helps users achieve health goals (bulking/cutting).
+        \item \textbf{Backend}: Java with PostgreSQL for user data, nutrition info, and meal plans.
+        \begin{itemize}
+            \item Integration with nutritional API to create personalized meal plans.
+            \item Tracks macros (protein, fats, carbs) and reduces food waste via shopping lists.
+        \end{itemize}
+        \item Possible hybrid system with PostgreSQL and NoSQL for varied data.
+        \item \textbf{Microservices}: For scalability and fail-safety.
+    \end{itemize}
+\end{itemize}
+
+\end{document}

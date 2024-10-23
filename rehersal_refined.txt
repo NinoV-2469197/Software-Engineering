@@ -1,0 +1,6 @@
+Ik ga het hebben over de onderhoudbaarheid van de applicatie. Dit betekent dat het voor beheerders (admins) mogelijk moet zijn om noodzakelijke handelingen, zoals het toevoegen of verwijderen van broodjes, eenvoudig uit te voeren zonder dat daar externe hulp voor nodig is. Daarnaast speelt compatibiliteit een belangrijke rol. We zorgen ervoor dat de app vanaf het begin zowel Android als iOS ondersteunt. Verder zal de app een test coverage hebben van minstens 50%, wat ervoor zorgt dat we voldoen aan alle eisen en een goede gebruikerservaring kunnen garanderen door fouten te minimaliseren.
+
+Als tweede punt wil ik het hebben over de technologie. Door gebruik te maken van Flutter kunnen we efficiënt beide platformen (Android en iOS) ondersteunen. De app zal communiceren via een aparte businesslaag, wat zorgt voor een stabiele en gecontroleerde omgeving voor gegevensverwerking. Onze back-end zal draaien op Java en PostgreSQL, die de kernfunctionaliteiten zoals data mutatie en beheer ondersteunen. Optioneel kunnen we overwegen om microservices in te zetten, zodat de app schaalbaar en toekomstbestendig is.
+
+Tot slot zal de ontwikkeling naar verwachting ongeveer 32 mandagen in beslag nemen, afhankelijk van de complexiteit van bepaalde functies."
+
